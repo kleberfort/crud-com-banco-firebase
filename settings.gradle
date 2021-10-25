@@ -1,0 +1,2 @@
+rootProject.name = "CRUD com banco Firebase"
+include ':app'
